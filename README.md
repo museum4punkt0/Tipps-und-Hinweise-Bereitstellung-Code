@@ -65,8 +65,7 @@ Die Autor*iInnen des Codes bzw. zugehörige Agenturen/Firmen/Institutionen könn
 evtl. Rechteangabe nach dem Schema: Institution / Urheber*in, Jahr
 
 <b>8.	Lizenz / License</b>
-Geben Sie hier an, unter welcher Lizenz der Quellcode/die Anwendung steht. Fügen Sie dabei den Lizenztext direkt im Readme ein bzw. linken zu dem zutreffenden Lizenztext.
-Bitte fügen Sie ferner eine Liste der Lizenzen für wiederverwendete Programmteile Dritter der Dokumentation hinzu.
+Geben Sie hier an, unter welcher Lizenz der Quellcode/die Anwendung steht. Fügen Sie dem Repository die entsprechende Lizenz als Datei hinzu (GitHub stellt entsprechedne Vorlagen zu Verfügung) und verlinken zu dem zutreffenden Lizenztext. Bitte fügen Sie ferner eine Liste der Lizenzen für wiederverwendete Programmteile Dritter der Dokumentation hinzu.
 
 Bitte formatieren Sie die einzelnen Abschnitte Ihres Readme als Überschriften. Im Readme-Editor setzen Sie dazu vor Abschnittsbegriffe ein #(+Leerzeichen). Dies erhöht die Lesbarkeit und vereinfacht die Auffindbarkeit z.B. von Lizenzinformationen. Weitere Hilfestellungen zur Anfertigung einer Readme-Datei und zur Codedokumentation finden Sie hier: 
 https://guides.github.com/features/wikis/#creating-a-readme
