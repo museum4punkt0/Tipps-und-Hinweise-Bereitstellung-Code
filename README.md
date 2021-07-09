@@ -1,4 +1,4 @@
-# Tipps für die Codedokumentation und Bereitstellung auf GitHub:
+# Tipps für die Dokumentation und Bereitstellung von Code auf GitHub:
 
 ## Wahrung der Rechte Dritter/Umgang mit Assets
 
