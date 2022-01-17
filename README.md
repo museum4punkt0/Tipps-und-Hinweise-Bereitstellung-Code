@@ -45,7 +45,7 @@ Geben Sie Benutzer*innen Informationen zur Installation / zum Aufsetzen der Anwe
 <b>6.	Benutzung</b>
 Beschreibt die Benutzung der Anwendung nach der Installation. Fügen Sie bestenfalls Screenshots ein, um die Handhabung zu illustrieren. Auch Anforderungen an Geräte / Ausstattung bzw. Systemvoraussetzungen für den Betrieb sollten hier genannt sein. Falls Ihre Anwendung über ein Backend verfügt, sollte Ihnen ein Benutzerhandbuch für die Backend-Nutzung vorliegen. Stellen Sie dieses bitte auch zur Verfügung indem Sie es (als PDF/A-3) im Github Repository hochladen und in der Readme-Datei darauf verlinken. Existiert zudem ein Betriebskonzept, sollten Sie dieses von hier aus per Link zugänglich machen.
 
-<b>6.	Beteiligung (optional)/b>
+<b>6.	Beteiligung (optional)</b>
 (Optional) Geben Sie hier an, ob und in welcher Art man sich an Ihrer Programmierung beteiligen kann. Detailinformationen werden in einer separaten Datei angelegt. Weitere Hinweise hierzu finden Sie unter https://help.github.com/en/articles/setting-guidelines-for-repository-contributors 
 
 <b>7.	Credits</b>
