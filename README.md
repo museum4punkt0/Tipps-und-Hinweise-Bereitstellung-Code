@@ -22,7 +22,7 @@ z.B.: „‘Tromp L’Oeil‘ ist eine prototypische mobile Augmented-Reality-Ap
 <b>3.	Inhaltsverzeichnis (Optional) </b>
 Ermöglichen Sie den Leser*innen einen Schnelleinstieg in die folgenden Kapitel des Readme, indem Sie ein Inhaltsverzeichnis mit Sprungmarken zu den einzelnen Abschnitten erstellen.
 
-<b>4. Entstehungskontext & Förderhinweis
+<b>4. Entstehungskontext & Förderhinweis </b>
 Textbaustein:
 Diese [Art der Webanwendung angeben, z.B. Website, Progressive-Web-App] ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt [Teilprojektname einfügen gemäß Verbund-Website, Kurzform möglich]. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:
 www.museum4punkt0.de
