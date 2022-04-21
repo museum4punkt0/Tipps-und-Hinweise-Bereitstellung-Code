@@ -1,4 +1,4 @@
-# Tipps für die Dokumentation und Bereitstellung von Code auf GitHub:
+# Tipps und Hinweise für die Dokumentation und Bereitstellung von Code auf GitHub:
 
 ## Die Readme-Datei
 
