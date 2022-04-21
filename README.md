@@ -34,8 +34,8 @@ Zusätzlich muss im Rahmen der Projektförderung aus dem Rettungs- und Sofortpro
 „Neustart Kultur“ das entsprechende Logo eingebunden werden. Daher bietet sich an, gleich beide Logos von BKM am Ende des Förderhinweises zu platzieren.
 
 Die beiden Logos sind auf GitHub verfügbar unter:
-https://github.com/museum4punkt0/images/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/ BKM_Fz_2017_Web_de.gif
-https://github.com/museum4punkt0/media_storage/blob/a35eedb36e5b502e90cd76d669a6b3370 02b230a/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg
+https://github.com/museum4punkt0/images/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/BKM_Fz_2017_Web_de.gif
+https://github.com/museum4punkt0/media_storage/blob/a35eedb36e5b502e90cd76d669a6b337002b230a/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg
 Dort finden Sie auch einen Code-Snippet, mit dem die beiden Logos aus der Readme heraus verlinkt werden können.
 
 
