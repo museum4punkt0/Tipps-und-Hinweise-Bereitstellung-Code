@@ -2,7 +2,7 @@
 
 ## Die Readme-Datei
 
-Die Readme-Datei ist der Teil des Repositoriums, der einen Überblick über alle wesentlichen Informationen zum Code und zum Enstehungskontext der Anwendung bietet.
+Die Readme-Datei ist der Einstieg in das Repositorium einer Anwendung. Sie gibt einen Überblick über alle wesentlichen Informationen zum Code und zum Enstehungskontext der Anwendung.
 
 Um die Zielsetzung des Verbundprojekts museum4punkt0, die Nachnutzung der hier veröffentlichenten Codes, zu erreichen, müssen folgende Aspekte in der Dokumentation berücksichtigt werden: 
 
