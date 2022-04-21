@@ -2,11 +2,12 @@
 
 ## Die Readme-Datei
 
-Die Readme-Datei ist der Teil des Repositoriums, der einen Überblick über alle wesentlichen Informationen zum Code und zum Enstehungskontext des Codes bietet.
+Die Readme-Datei ist der Teil des Repositoriums, der einen Überblick über alle wesentlichen Informationen zum Code und zum Enstehungskontext der Anwendung bietet.
 
-Sie ist Teil der technischen Dokumentation, die darauf abzielt: 
+Um die Zielsetzung des Verbundprojekts museum4punkt0, die Nachnutzung der hier veröffentlichenten Codes, zu erreichen, müssen folgende Aspekte in der Dokumentation berücksichtigt werden: 
 
 •	Die digitale Anwendung (einschließlich ihrer Schnittstellen) muss in geeigneter Weise verständlich und nachvollziehbar in Deutsch oder Englisch dokumentiert sein. 
+
 •	Die Dokumentation soll anderen Museen und ihre Dienstleister in die Lage versetzen, die Struktur des Systems, den Ablauf der Datenverarbeitung, die Funktionen der einzelnen Einheiten und die Bedeutung von verwendeten Daten zu verstehen. Es wird empfohlen die Verständlichkeit der Dokumentation mit Screenshots (ggf. Erklärvideos) zu erleichtern.  
 
 Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Reihenfolge enthalten:
