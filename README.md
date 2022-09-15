@@ -23,10 +23,10 @@ Ermöglichen Sie den Leser*innen einen Schnelleinstieg in die folgenden Kapitel 
 
 Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Reihenfolge enthalten:
 
-<b>1.	Name der Anwendung</b>
+### 1.	Name der Anwendung
 Bezeichnung entspricht dem Titel der Anwendung  und auf der Website. Bitte achten Sie auf eine einheitliche Terminologie.
 
-<b>2.	Kurzbeschreibung</b>
+### 2.	Kurzbeschreibung
 Beschreiben Sie in mind. drei Sätzen, um was es in der hinterlegten Anwendung geht.
 z.B.: „‘Tromp L’Oeil‘ ist eine prototypische mobile Augmented-Reality-App für die Sammlungsstücke der Gemäldegalerie der Staatlichen Museen zu Berlin. Mit dieser Augmented-Reality-Anwendung werden Potentiale untersucht, die AR-Technologie zur Erforschung, Darstellung, Erzählung und Vermittlung von kulturellen Inhalten bietet. […]“
 
