@@ -12,6 +12,15 @@ Um die Zielsetzung des Verbundprojekts museum4punkt0, die Nachnutzung der hier v
 
 Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Reihenfolge enthalten:
 
+## Inhaltsverzeichnis
+* [Kurzbeschreibung](#Kurzbeschreibung)
+* [Förderhinweis](#Förderhinweis)
+* [Installation](#Installation)
+* [Benutzung](#Benutzung)
+* [Credits](#Credits)
+* [Lizenz](#Lizenz)
+
+
 <b>1.	Name der Anwendung</b>
 Bezeichnung entspricht dem Titel der Anwendung  und auf der Website. Bitte achten Sie auf eine einheitliche Terminologie.
 
