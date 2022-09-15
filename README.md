@@ -30,7 +30,7 @@ Bezeichnung entspricht dem Titel der Anwendung  und auf der Website. Bitte achte
 Beschreiben Sie in mind. drei Sätzen, um was es in der hinterlegten Anwendung geht.
 z.B.: „‘Tromp L’Oeil‘ ist eine prototypische mobile Augmented-Reality-App für die Sammlungsstücke der Gemäldegalerie der Staatlichen Museen zu Berlin. Mit dieser Augmented-Reality-Anwendung werden Potentiale untersucht, die AR-Technologie zur Erforschung, Darstellung, Erzählung und Vermittlung von kulturellen Inhalten bietet. […]“
 
-<b>3. Entstehungskontext & Förderhinweis </b>
+### Entstehungskontext & Förderhinweis </b>
 Textbaustein:
 Diese [Art der Webanwendung angeben, z.B. Website, Progressive-Web-App] ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt [Teilprojektname einfügen gemäß Verbund-Website, Kurzform möglich]. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen:
 www.museum4punkt0.de
@@ -47,22 +47,22 @@ Dort finden Sie auch einen Code-Snippet, mit dem die beiden Logos aus der Readme
 
 
 
-<b>4.	Installation</b>
+### Installation</b>
 Geben Sie Benutzer*innen Informationen zur Installation / zum Aufsetzen der Anwendung und dazu benötigte Hard-/Software.
 
-<b>6.	Benutzung</b>
+### Benutzung</b>
 Beschreibt die Benutzung der Anwendung nach der Installation. Fügen Sie bestenfalls Screenshots ein, um die Handhabung zu illustrieren. Auch Anforderungen an Geräte / Ausstattung bzw. Systemvoraussetzungen für den Betrieb sollten hier genannt sein. Falls Ihre Anwendung über ein Backend verfügt, sollte Ihnen ein Benutzerhandbuch für die Backend-Nutzung vorliegen. Stellen Sie dieses bitte auch zur Verfügung indem Sie es (als PDF/A-3) im Github Repository hochladen und in der Readme-Datei darauf verlinken. Existiert zudem ein Betriebskonzept, sollten Sie dieses von hier aus per Link zugänglich machen.
 
-<b>5.	Beteiligung (optional)</b>
+### Beteiligung (optional)</b>
 (Optional) Geben Sie hier an, ob und in welcher Art man sich an Ihrer Programmierung beteiligen kann. Detailinformationen werden in einer separaten Datei angelegt. Weitere Hinweise hierzu finden Sie unter https://help.github.com/en/articles/setting-guidelines-for-repository-contributors 
 
-<b>6.	Credits</b>
+### Credits</b>
 Auftraggeber*in/Rechteinhaber*in (Name Ihrer Institution)
 Urheber*innen (Namen der beteiligten Entwickler*innen oder Firma)
 Die Autor*iInnen des Codes bzw. zugehörige Agenturen/Firmen/Institutionen können hier verlinkt sein. 
 
 
-<b>7.	Lizenz / License</b>
+### Lizenz / License</b>
 Rechteangabe nach dem Schema: Copyright © Jahr, Institution / Urheber*innen.
 Geben Sie hier an, unter welcher Lizenz der Quellcode/die Anwendung steht. Fügen Sie dem Repository die entsprechende Lizenz als Datei hinzu (GitHub stellt entsprechedne Vorlagen zu Verfügung) und verlinken zu dem zutreffenden Lizenztext. Bitte fügen Sie ferner eine Liste der Lizenzen für wiederverwendete Programmteile Dritter der Dokumentation hinzu.
 
@@ -72,7 +72,7 @@ https://docs.github.com/en/github/building-a-strong-community/adding-a-license-t
 https://technical-reference.readthedocs.io/en/latest/developer-guidelines/02-readme.html
 https://technical-reference.readthedocs.io/en/latest/developer-guidelines/03-documentation.html
 
-8. Zusätzliche Angaben
+### Zusätzliche Angaben
 „About“: Geben Sie im Abschnitt „About“ eine kurze, prägnante Auskunft zum Inhalt des
 Repositoriums.
 „Topics“: Taggen Sie das Repositorium mit Schlagworten, um die Auffindbarkeit Ihres
