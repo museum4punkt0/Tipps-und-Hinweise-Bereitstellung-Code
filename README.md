@@ -10,7 +10,8 @@ Um die Zielsetzung des Verbundprojekts museum4punkt0, die Nachnutzung der hier v
 
 •	Die Dokumentation soll anderen Museen und ihre Dienstleister in die Lage versetzen, die Struktur des Systems, den Ablauf der Datenverarbeitung, die Funktionen der einzelnen Einheiten und die Bedeutung von verwendeten Daten zu verstehen. Es wird empfohlen die Verständlichkeit der Dokumentation mit Screenshots (ggf. Erklärvideos) zu erleichtern.  
 
-Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Reihenfolge enthalten:
+<b>3.	Inhaltsverzeichnis (Optional) </b>
+Ermöglichen Sie den Leser*innen einen Schnelleinstieg in die folgenden Kapitel des Readme, indem Sie ein Inhaltsverzeichnis mit Sprungmarken zu den einzelnen Abschnitten erstellen.
 
 ## Inhaltsverzeichnis
 * [Kurzbeschreibung](#Kurzbeschreibung)
@@ -20,6 +21,7 @@ Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Rei
 * [Credits](#Credits)
 * [Lizenz](#Lizenz)
 
+Der Text der Readme-Datei sollte mindestens folgende Abschnitte in folgender Reihenfolge enthalten:
 
 <b>1.	Name der Anwendung</b>
 Bezeichnung entspricht dem Titel der Anwendung  und auf der Website. Bitte achten Sie auf eine einheitliche Terminologie.
@@ -27,10 +29,6 @@ Bezeichnung entspricht dem Titel der Anwendung  und auf der Website. Bitte achte
 <b>2.	Kurzbeschreibung</b>
 Beschreiben Sie in mind. drei Sätzen, um was es in der hinterlegten Anwendung geht.
 z.B.: „‘Tromp L’Oeil‘ ist eine prototypische mobile Augmented-Reality-App für die Sammlungsstücke der Gemäldegalerie der Staatlichen Museen zu Berlin. Mit dieser Augmented-Reality-Anwendung werden Potentiale untersucht, die AR-Technologie zur Erforschung, Darstellung, Erzählung und Vermittlung von kulturellen Inhalten bietet. […]“
-
-
-<b>3.	Inhaltsverzeichnis (Optional) </b>
-Ermöglichen Sie den Leser*innen einen Schnelleinstieg in die folgenden Kapitel des Readme, indem Sie ein Inhaltsverzeichnis mit Sprungmarken zu den einzelnen Abschnitten erstellen.
 
 <b>4. Entstehungskontext & Förderhinweis </b>
 Textbaustein:
